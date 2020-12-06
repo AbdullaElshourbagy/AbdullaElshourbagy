@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning ... Data Science and Machine Learning.
 - 👯 I’m looking to collaborate on ... Any AI and Data Society.
 - 🤔 I’m looking for help with ... Anybody know Data Science and AI .
-- 📫 How to reach me: ... [Facebook](https://www.facebook.com/abdalla.ahmed.14019/) [Linkedin](https://www.linkedin.com/in/abdullaalshourbagy) [Email](analyst_abdulla@outlook.com)
+- 📫 How to reach me: ... [Facebook](https://www.facebook.com/abdalla.ahmed.14019/) | [Linkedin](https://www.linkedin.com/in/abdullaalshourbagy)  | [Email](analyst_abdulla@outlook.com)
 - 😄 Nickname: ... Micky Mouse.
 - ⚡ Hobbies: ... Coocking, Reading, and Discovering different cultures.
