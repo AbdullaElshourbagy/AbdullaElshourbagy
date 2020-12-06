@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**AbdullaElshourbagy/AbdullaElshourbagy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## My name Abdulla Ahmed El-Shourbagy and I'm Software Engineer!👋
 
 - 🔭 I’m currently working on ... TE Data On IBM Integration Bus.
 - 🌱 I’m currently learning ... Data Science and Machine Learning.
@@ -12,4 +7,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Facebook](https://www.facebook.com/abdalla.ahmed.14019/) [Linkedin](https://www.linkedin.com/in/abdullaalshourbagy) [Email](analyst_abdulla@outlook.com)
 - 😄 Nickname: ... Micky Mouse.
 - ⚡ Hobbies: ... Coocking, Reading, and Discovering different cultures.
--->
